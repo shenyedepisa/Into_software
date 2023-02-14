@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #D9D9D9;
+	margin: 0px;
+	padding: 0px;
+}
+li{list-style-type: none;}
+a{
+	text-decoration: none;
+	color:#000000;
+	font-size: 20px;
+}
+a:hover{
+	font-size: 22px;
+}
+#top{
+	position: fixed;
+	top: 0px;
+	height: 55px;
+	width: 100%;
+	text-align:center;
+	border-bottom: solid hsla(0,0%,0%,1.00) 2px;
+	background-color:  #D9D9D9;
+}
+#top li{
+	height: 55px;
+	width: 6%;
+	display: table-cell;			
+	vertical-align:middle;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+	list-style-type: none;
+}
+#jianjie{
+	width: 80%;
+	display: table-cell;			
+	vertical-align:middle;
+}
+#jianjie img{ width:100%; height:auto}
+.div_1{
+	width: 100%;
+	background-color: hsla(0,0%,0%,1.00);
+	border:solid #000000 1px;
+}
+#copyright li{
+	display: table-cell;			
+	vertical-align:middle;
+	font-size: 12px;
+	width:100%;
+	text-align:right;
+	color: aliceblue;
+	background-color: #2A2A2A;
+	list-style-type: none;
+	float: left;
+	height: 15px;
+}
+

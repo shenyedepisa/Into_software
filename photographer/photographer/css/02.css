@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #D9D9D9;
+	margin: 0px;
+	padding: 0px;
+}
+#div_0{
+	position: fixed;
+	top: 0px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	font-size: 20px;
+	width:100%;
+	color: aliceblue;
+	background-color:#2A2A2A;
+	list-style-type: none;
+	height: 30px;
+}#div_0 a:hover{
+	font-size: 22px;
+}
+#div_1{
+	margin-top: 31px;
+	clear: both;
+	width: 20%;
+	font-size:50px;
+	font-family:"aladin";
+	font-weight:bold;
+	text-align: center;
+	display: table-cell;			
+	vertical-align: middle;
+	background-color:#D5D5D5;
+	float: left;
+	padding-top:340px;
+	padding-bottom: 400px;
+	color:hsla(0,0%,8%,1.00);
+	list-style-type: none;
+}
+#div_1:hover{
+	color: hsla(0,0%,0%,0.00);
+	background-image: url(../image/3.1.jpg);
+	background-position: center;
+	text-align: center;
+}
+#div_2{
+	margin-top: 31px;
+	width:20%;
+	font-size:50px;
+	font-family:"aladin";
+	font-weight:bold;
+	text-align: center;
+	display: table-cell;			
+	vertical-align: middle;
+	background-color:#B9B9B9;
+	float: left;
+	padding-top:340px;
+	padding-bottom: 400px;
+	color:hsla(0,0%,13%,1.00);
+	list-style-type: none;
+}
+#div_2:hover{
+	color: hsla(0,0%,0%,0.00);
+	background-image: url(../image/fengguang.jpg);
+	background-position: center;
+	text-align: center;
+}
+#div_3{
+	margin-top: 31px;
+	width:20%;
+	font-size:50px;
+	font-family:"aladin";
+	font-weight:bold;
+	text-align: center;
+	display: table-cell;			
+	vertical-align: middle;
+	background-color:#999999;
+	float: left;
+	padding-top:340px;
+	padding-bottom: 400px;
+	color:hsla(0,0%,18%,1.00);
+	list-style-type: none;
+}
+#div_3:hover{
+	color: hsla(0,0%,0%,0.00);
+	background-image: url(../image/jianzhu.jpg);
+	background-position: center;
+	text-align: center;
+}
+#div_4{
+	margin-top: 31px;
+	width:20%;
+	font-size:50px;
+	font-family:"aladin";
+	font-weight:bold;
+	text-align: center;
+	display: table-cell;			
+	vertical-align: middle;
+	background-color:#666666;
+	float: left;
+	padding-top:340px;
+	padding-bottom: 400px;
+	color:hsla(0,0%,75%,1.00);
+	list-style-type: none;
+}
+#div_4:hover{
+	color: hsla(0,0%,0%,0.00);
+	background-image: url(../image/jishi.jpg);
+	background-position: center;
+	text-align: center;
+}
+#div_5{
+	margin-top: 31px;
+	width:20%;
+	font-size:50px;
+	font-family:"aladin";
+	font-weight:bold;
+	text-align: center;
+	display: table-cell;			
+	vertical-align: middle;
+	background-color:#404040;
+	float: left;
+	padding-top:340px;
+	padding-bottom: 400px;
+	color:hsla(0,0%,85%,1.00);
+	list-style-type: none;
+}
+#div_5:hover{
+	color: hsla(0,0%,0%,0.00);
+	background-image: url(../image/jingwu.jpg);
+	background-position: center;
+	text-align: center;
+}
+#copyright li{
+	margin-top: 1px;
+	display: table-cell;			
+	vertical-align:middle;
+	font-size: 12px;
+	width:100%;
+	text-align:right;
+	color: aliceblue;
+	background-color:#2A2A2A;
+	list-style-type: none;
+	float: left;
+	height: 15px;
+}
